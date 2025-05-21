@@ -12,34 +12,30 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PratikAmatya/sequelize-boilerplate"
+    "url": "git+https://github.com/AmishB7/sequelize-boilerplate"
   },
   "keywords": [
     "API"
   ],
-  "author": "Pratik Amatya",
+  "author": "Amish Bajracharya",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^6.0.0",
     "cors": "^2.8.5",
-    "dotenv": "^10.0.0",
+    "dotenv": "^16.5.0",
     "errorhandler": "^1.5.1",
-    "express": "^4.17.1",
+    "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
-    "moment": "^2.29.1",
+    "moment": "^2.30.1",
     "morgan": "^1.10.0",
-    "multer": "^1.4.5-lts.1",
+    "multer": "^2.0.0",
     "mysql2": "^3.14.1",
-    "sequelize": "^6.12.0-alpha.1",
-    "sequelize-cli": "^6.3.0",
-    "uuid": "^8.3.2"
+    "sequelize": "^6.37.7",
+    "sequelize-cli": "^6.6.3",
+    "uuid": "^11.1.0"
   },
-  "bugs": {
-    "url": "https://github.com/PratikAmatya/sequelize-boilerplate/issues"
-  },
-  "homepage": "https://github.com/PratikAmatya/sequelize-boilerplate#readme",
   "devDependencies": {
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.10"
   }
 }
